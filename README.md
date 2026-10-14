@@ -1,4 +1,6 @@
-This adds direct usbc support, bnaba's preferred button layout for melee and rivals2, and a separate rivals2 mode for that button layout. It also adds a dpad up modifier button on the unused "up" box button, preventing accidental taunt inputs, and a button to toggle that modifier on or off for easier dpad use in uncle punch for example.
+This adds direct usb to pc/switch support, a rivals2 mode that moves Y to where the "up" button is for use as a parry button on right pinky. It also adds a dpad up modifier button on the unused "up" box button, preventing accidental taunt inputs, and a button to toggle that modifier on or off for easier dpad use in uncle punch for example.
+
+To switch to rivals2 mode, hold the 2nd function button (right beside start). Blue lights = standard melee mode, green lights = rivals2 mode.
 
 # PhobGCC
 
